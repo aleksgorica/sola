@@ -1,0 +1,138 @@
+A (v,k,na){
+kdo izvajati dogajanje: Porto le chiavi a mia madre
+bivanje: abito a Torino; rimango a casa
+premikanje proti kraju: vado a Roma
+navajanje časa: finisco di lavorare a mezzogiorno
+starost: E morto a cinquant'anni
+način izvajanja: studia tutto a memoria
+določanje TOČNEGA vzroka: sono arrivato tardi a causa del traffico
+cena, vrednost: Si vende a 300 euro; vive a cento metri
+prednosti: Lo sport aiuta a sudare
+lastnost: Una macchina a bencina
+kazen: stato condannato a trent'anni
+nedoločnik: Viene a riposare; comincia a
+smeri neba: al nord
+
+}
+
+IN (v){
+države: vado in inghilterra
+bivanje v prostoru: abito in una casa piccolo
+izjeme: in banca
+in chiesa(cerkev)
+in piscina(bazen)
+in biblioteca
+in fabbrica
+in discoteca,
+in palestra,
+in ufficio,
+in chiesa,
+in ristorante
+in campagna,
+in montagna,
+in edicola,
+in centro,
+in periferia,
+in vacanza
+meseci: partiro in febbraio
+duševno stanje: sono in ansia
+način oblačenja: mi ha salutato in pigiama
+način kuhanja: un risotto in bianco
+bravo in matematica
+prevoz: in bicicletta
+}
+
+DA (iz, k){
+ priti k: vado da te
+ prizi iz/od: dopo molti anni Franco torna dagli Stati Uniti
+ zmeraj ko je od, k, iz, uporabljaj da
+ od [čas]: Dalle 10 alle 11
+}
+
+DI (od){
+  od nekoga: la famiglia di Sandro
+  lastnina: il quaderno di Gianluca
+  primerjava: Vittoria e piu alto di anselmo
+  bivanje: dormo di la;
+  premikanje: passiamo di qui; vado di qua
+  izvor: Sono di Milano
+  tema: il libro di geografia; parlare di calcio
+  snov: un tavolo di legno
+  priti do nečesa: arrivare di corsa //priti do dirke
+  vzrok površno: Saltare di allegria
+  izobilje: un cesta piena di mele
+  pomanjkanje: Questo ragazzo manca di iniziativa
+  lastnost: Un uomo di bassa statura
+  navajati čas: Di mattina piove sempre
+  navajati starost: un signore di quarant'anni
+  krivda: accuseranno di furto
+  vrednost ali cena: una casa di 300.000 euro
+  količina ali mera: un edificio di venti piani;
+  nedoločnik: ha gia finito di mangiare; ha ragione di essere arrabbiato
+}
+
+SU (na nečem){
+na nečem: le chiavi sono sul tavolo
+na temo: Era una conferenza su Dante Alighieri
+Vediamoci sul tardi: se vidimo kasneje
+starost: una signora sui cinquant'anni
+cena: costa sui venti euro
+kvantiteta: c'erano sulle cinquanta persone
+}
+
+PER(za, na){
+  za: piangeva per la morte di un famigliare
+  na:
+  pripraviti se na: preparsi per la
+  cena in vrednost: lo vendo per 100 euro; ho corso per dieci chilometri
+}
+
+tra(skozi,med,čez){
+  dolžina: tra Roma e Milano ci sono molti chilometri
+  čas: arrivo tra due ore
+  odnos: non ce molta simpatia tra quei ragazzi
+  del: alcuni tra i bambini non studiano
+
+}
+ULICE: IN
+MESTA: A
+DRŽAVE: IN
+VELIKI OTOKI: IN
+REGIJE: IN
+BESEDE KI SE KONČAJO NA -IA: INScegli la frase senza errori.
+
+
+URA {
+  9:50 = sono le dieci meno dieci = sono le nove e cinquanta
+  mancano dieci minuti alle dieci;
+  1h = E l'una = in punto precisa
+  1.15h = E l'una e un quarto
+  1.30h = E l'una e mezzo
+  1.45h = E l'una e tre quarti = sono le due meno quarto
+  12.00 = E mezzogiorno = sono le dodici
+  00.00 = E mezzanotte = sono le ventiquattro
+
+  FORMULA {
+    glagol biti(e, sono) + articolato(l', le) + ura + minute(e + (un quarto), (mezzo), (tre quarti), (trenta cinque))
+  }
+  la mattina: sono le nove di mattina
+  il pomeriggio: ho l'allenamento alle cinque di pomeriggio
+  studio dalle tre alle quattro del pomeriggio
+  presto = zgodaj
+  tarti = pozno
+  arrivare in: ritardo, anticipo, tempo
+  la lezione inizia alle otto
+  dalle...alle
+  fare colazione
+
+  GLI OROLOGI{
+    na steno: l'orologio da parete
+    ročna: da polso
+    budilka: la sveglia
+  }
+
+
+
+
+
+}
