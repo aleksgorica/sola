@@ -12,6 +12,11 @@ lastnost: Una macchina a bencina
 kazen: stato condannato a trent'anni
 nedoločnik: Viene a riposare; comincia a
 smeri neba: al nord
+all primo piano
+iniziare a lavorare/studiare
+riuscire: a fare tutto da sola
+girare a destra
+
 
 }
 
@@ -19,6 +24,7 @@ IN (v){
 države: vado in inghilterra
 bivanje v prostoru: abito in una casa piccolo
 izjeme: in banca
+in universita
 in chiesa(cerkev)
 in piscina(bazen)
 in biblioteca
@@ -40,6 +46,7 @@ način oblačenja: mi ha salutato in pigiama
 način kuhanja: un risotto in bianco
 bravo in matematica
 prevoz: in bicicletta
+in autunno, primavera,estate
 }
 
 DA (iz, k){
@@ -47,6 +54,16 @@ DA (iz, k){
  prizi iz/od: dopo molti anni Franco torna dagli Stati Uniti
  zmeraj ko je od, k, iz, uporabljaj da
  od [čas]: Dalle 10 alle 11
+ tornare da:
+ venire da:
+ prihajam iz: {
+    da Roma, Milano, !!!!!Cuba, !!!!!Malta;
+    dall Aquila, Umbria, estero,
+    dalla Germania, Sicilia
+    dal Brasile
+    dagli Stati Uniti
+    dai Paesi Bassi
+ }
 }
 
 DI (od){
@@ -69,6 +86,12 @@ DI (od){
   vrednost ali cena: una casa di 300.000 euro
   količina ali mera: un edificio di venti piani;
   nedoločnik: ha gia finito di mangiare; ha ragione di essere arrabbiato
+  finire DI: scrivere...
+  smettere di fumare; di uscire con gli amici
+  avere paura di: alteza; del buio;
+  avere voglia di: Ho voglia di uscire con te
+  avere bisogno di: Ho bisogno di te, del tuo aiuto
+  essere fiero di: Sono fiera di te; dei risultati
 }
 
 SU (na nečem){
